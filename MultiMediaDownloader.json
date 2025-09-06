@@ -1,5 +1,6 @@
 {
   "ytApi": "https://api.mp3youtube.cc/v2/sanity/key",
   "ytD": "https://api.mp3youtube.cc/v2/converter",
-  "mediaURL": "https://dwnld.nichind.dev"
+  "tik": "https://api.12345.sb/api/json",
+  "media": "https://dwnld.nichind.dev"
 }
