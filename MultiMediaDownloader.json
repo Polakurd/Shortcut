@@ -1,8 +1,9 @@
 {
-  "url": "https://chrunos.com/chrunos-downloader/",
-  "api": "https://cobalt-api.kwiatekmiki.com",
-  "task1": "https://p.oceansaver.in/ajax/download.php?button=1&amp;start=1&amp;end=1&amp;format=",
-  "task2": "&amp;iframe_source=https://www.y2down.app,&amp;url=",
-  "progress": "https://p.oceansaver.in/ajax/progress.php?id=",
-  "api2": "https://sasrip.sas41.com/api/DownloadAPI/v1.0/"
+  "api": "https://api.cobalt.blackcat.sweeux.org/",
+  "version": "2.6",
+  "url": "https://routinehub.co/api/v1/shortcuts/18763/versions/latest",
+  "notes": "Add more sites for video and music.",
+  "ig": "https://api.12345.sb/api/json",
+  "fb": "https://api.12345.sb/api/json",
+  "yt": "https://dwnld.nichind.dev"
 }
