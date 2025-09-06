@@ -1,9 +1,6 @@
 {
-  "api": "https://api.cobalt.blackcat.sweeux.org/",
-  "version": "2.6",
-  "url": "https://routinehub.co/api/v1/shortcuts/18763/versions/latest",
-  "notes": "Add more sites for video and music.",
+  "ytKey": "https://api.mp3youtube.cc/v2/sanity/key",
+  "ytDownload": "https://api.mp3youtube.cc/v2/converter",
   "ig": "https://api.12345.sb/api/json",
-  "fb": "https://api.12345.sb/api/json",
-  "yt": "https://dwnld.nichind.dev"
+  "fb": "https://api.12345.sb/api/json"
 }
