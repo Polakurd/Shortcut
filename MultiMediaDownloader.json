@@ -1,6 +1,5 @@
 {
-  "ytKey": "https://api.mp3youtube.cc/v2/sanity/key",
-  "ytDownload": "https://api.mp3youtube.cc/v2/converter",
-  "ig": "https://api.12345.sb/api/json",
-  "fb": "https://api.12345.sb/api/json"
+  "ytApi": "https://api.mp3youtube.cc/v2/sanity/key",
+  "ytD": "https://api.mp3youtube.cc/v2/converter",
+  "mediaURL": "https://api.12345.sb/api/json"
 }
